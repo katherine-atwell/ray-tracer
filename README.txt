@@ -1,5 +1,3 @@
-akath1, Katherine Atwell, GallopingGargoyles, 435, Computer Science
-
 This assignment was the first project, a ray-tracing project in which an image was generated 
 based on the shapes in a scene and the position of the camera. We were given the details of a scene,
 such as the background color and the shapes contained within the scene, via an nff file, which we parsed
